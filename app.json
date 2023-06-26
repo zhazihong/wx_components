@@ -1,6 +1,5 @@
 {
   "pages": [
-    "pages/wxcalendar/wxcalendar",
     "pages/home/home",
     "pages/button/button",
     "pages/tabs/tabs",

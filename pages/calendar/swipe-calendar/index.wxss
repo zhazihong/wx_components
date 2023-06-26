@@ -3,10 +3,9 @@
   align-content: flex-start;
 }
 .calendar{
-  position: fixed;
-  z-index:10000;
+  /* position: fixed; */
+  /* z-index:10000; */
   background: #fff;
-  
 }
 .grid {
   width: 107.14rpx;

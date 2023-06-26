@@ -14,4 +14,9 @@
     <custom-button />
     <without-popup />
   </t-demo>
+
+  <t-demo title="03 组件样式" desc="可滑动切换,可选中日历">
+  <swipe-calendar />
+  </t-demo>
+
 </view>
